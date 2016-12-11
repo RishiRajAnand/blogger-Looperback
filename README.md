@@ -14,3 +14,4 @@
 
 
 7. Thanks to loopback framework for making the task of making this app a piece of cake for me.(One day to make the complete app.)
+8. For Mocha testing go to the command prompt in current working directory and type Mocha and sit back and see the do its work.It will test all your rest apis.
